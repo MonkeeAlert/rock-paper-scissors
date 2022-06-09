@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камень, ножницы, бумага</string>
+    <string name="title">Сыграем?</string>
+    <string name="me_title">Я</string>
+    <string name="you_title">Ты</string>
+    <string name="choose">Ты выбираешь:</string>
+    <string name="wins">побед:</string>
+    <string name="loses">поражений:</string>
+</resources>

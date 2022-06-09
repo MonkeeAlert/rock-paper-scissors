@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rock, Paper, Scissors</string>
+    <string name="title">Let\'s play!</string>
+    <string name="me_title">Me</string>
+    <string name="you_title">You</string>
+    <string name="choose">Fight me:</string>
+    <string name="wins">wins:</string>
+    <string name="loses">loses:</string>
+</resources>

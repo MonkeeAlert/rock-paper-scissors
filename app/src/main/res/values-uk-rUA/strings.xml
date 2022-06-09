@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Камінь, ножиці, папір</string>
+    <string name="title">Зіграємо?</string>
+    <string name="me_title">Я</string>
+    <string name="you_title">Ти</string>
+    <string name="choose">Твій вибір:</string>
+    <string name="wins">Перемог:</string>
+    <string name="loses">Поразок:</string>
+</resources>
